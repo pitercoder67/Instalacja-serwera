@@ -1,5 +1,5 @@
-# 📘 PEŁNY PORADNIK
+## 📘 Pełny poradnik
 
-## 👉 DOSTĘPNY NIŻEJ W FORMIE STRONY
+👉 PEŁNY PORADNIK DOSTĘPNY NIŻEJ W FORMIE STRONY :)
 
-# ➜ https://pitercoder67.github.io/Instalacja-serwera/ ❬-----
+➡️ https://pitercoder67.github.io/Instalacja-serwera/ ⬅️
